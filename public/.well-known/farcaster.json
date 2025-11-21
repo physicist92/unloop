@@ -1,9 +1,4 @@
 {
-  "accountAssociation": {
-    "header": "eyJmaWQiOjE5MjY3LCAidHlwZSI6ImN1c3RvZHkiLCAia2V5IjoiMHhCR..."
-    "payload": "eyJkb21haW4iOiJ1bmxvb3AtbmluZS52ZXJjZWwuYXBwIn0",
-    "signature": "MH..."
-  },
   "frame": {
     "version": "1",
     "name": "Unloop",
