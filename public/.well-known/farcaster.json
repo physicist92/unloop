@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE5MjY3LCAidHlwZSI6ImN1c3RvZHkiLCAia2V5IjoiMHhCR..."
+    "payload": "eyJkb21haW4iOiJ1bmxvb3AtbmluZS52ZXJjZWwuYXBwIn0",
+    "signature": "MH..."
+  },
+  "frame": {
+    "version": "1",
+    "name": "Unloop",
+    "iconUrl": "https://unloop-nine.vercel.app/vite.svg",
+    "homeUrl": "https://unloop-nine.vercel.app",
+    "imageUrl": "https://unloop-nine.vercel.app/vite.svg",
+    "buttonTitle": "Launch Unloop",
+    "splashImageUrl": "https://unloop-nine.vercel.app/vite.svg",
+    "splashBackgroundColor": "#0f172a",
+    "webhookUrl": "https://unloop-nine.vercel.app/api/webhook"
+  }
+}
