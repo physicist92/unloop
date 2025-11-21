@@ -1,4 +1,9 @@
 {
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE5MjY3LCJ0eXBlIjoiYXV0aCIsImtleSI6IjB4ODk3MjVCNTQ5NjVjNzA2MTAwQTJCMjRmNzhBRWMyNjhBREMyNUQzQiJ9",
+    "payload": "eyJkb21haW4iOiJ1bmxvb3AtbmluZS52ZXJjZWwuYXBwIn0",
+    "signature": "4cHbEt95Q2ejoE6DIx6VRU2PJePkQMquid3XOelgneVin+snsmiXHaNYV+usTBnCbD49r8BgASTKBgQPYqfV6xs="
+  },
   "frame": {
     "version": "1",
     "name": "Unloop",
