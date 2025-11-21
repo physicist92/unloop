@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "Unloop",
-    "iconUrl": "https://unloop-nine.vercel.app/vite.svg",
+    "iconUrl": "https://unloop-nine.vercel.app/logo.svg",
     "homeUrl": "https://unloop-nine.vercel.app",
-    "imageUrl": "https://unloop-nine.vercel.app/vite.svg",
+    "imageUrl": "https://unloop-nine.vercel.app/logo.svg",
     "buttonTitle": "Launch Unloop",
-    "splashImageUrl": "https://unloop-nine.vercel.app/vite.svg",
+    "splashImageUrl": "https://unloop-nine.vercel.app/logo.svg",
     "splashBackgroundColor": "#0f172a",
     "webhookUrl": "https://unloop-nine.vercel.app/api/webhook"
   }
